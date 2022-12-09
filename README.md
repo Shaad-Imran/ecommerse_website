@@ -4,7 +4,7 @@
 
 Shaad Store is a fully responsive - Ecommerse Website , <br /> built using React JS.
 
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://shaad-ecomm.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
